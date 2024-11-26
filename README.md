@@ -34,3 +34,8 @@ Dlib
 RPi.GPIO
 SciPy
 shape_predictor_68_face_landmarks.dat for facial landmark detection.
+
+
+
+![image](https://github.com/user-attachments/assets/95dd7307-329e-4641-be94-9ee015ce8964)
+
