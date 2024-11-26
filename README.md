@@ -39,3 +39,7 @@ shape_predictor_68_face_landmarks.dat for facial landmark detection.
 
 ![image](https://github.com/user-attachments/assets/95dd7307-329e-4641-be94-9ee015ce8964)
 
+![1](https://github.com/user-attachments/assets/344f86cc-15f6-4189-9b57-0e3c6fc92131)
+
+
+![2](https://github.com/user-attachments/assets/4c246255-1045-479b-9bff-9caabb8ca28b)
